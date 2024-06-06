@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Laba\\\u041E\u041E\u0422\u041F\u0438\u0421\u041F\\lab6\\lab5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{778D600C-A497-4859-83B5-8BFC26421127}|lab3\\lab3.csproj|D:\\Laba\\\u041E\u041E\u0422\u041F\u0438\u0421\u041F\\lab6\\lab5\\lab3\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{778D600C-A497-4859-83B5-8BFC26421127}|lab3\\lab3.csproj|solutionrelative:lab3\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778D600C-A497-4859-83B5-8BFC26421127}|lab3\\lab3.csproj|d:\\laba\\\u043E\u043E\u0442\u043F\u0438\u0441\u043F\\lab6\\lab5\\lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{778D600C-A497-4859-83B5-8BFC26421127}|lab3\\lab3.csproj|solutionrelative:lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778D600C-A497-4859-83B5-8BFC26421127}|lab3\\lab3.csproj|D:\\Laba\\\u041E\u041E\u0422\u041F\u0438\u0421\u041F\\lab6\\lab5\\lab3\\catalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{778D600C-A497-4859-83B5-8BFC26421127}|lab3\\lab3.csproj|solutionrelative:lab3\\catalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Catalog.cs",
+              "DocumentMoniker": "D:\\Laba\\\u041E\u041E\u0422\u041F\u0438\u0421\u041F\\lab6\\lab5\\lab3\\Catalog.cs",
+              "RelativeDocumentMoniker": "lab3\\Catalog.cs",
+              "ToolTip": "D:\\Laba\\\u041E\u041E\u0422\u041F\u0438\u0421\u041F\\lab6\\lab5\\lab3\\Catalog.cs",
+              "RelativeToolTip": "lab3\\Catalog.cs",
+              "ViewState": "AQIAAJEAAAAAAAAAAAA8wNQAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T08:45:42.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Film.cs",
+              "DocumentMoniker": "D:\\Laba\\\u041E\u041E\u0422\u041F\u0438\u0421\u041F\\lab6\\lab5\\lab3\\Film.cs",
+              "RelativeDocumentMoniker": "lab3\\Film.cs",
+              "ToolTip": "D:\\Laba\\\u041E\u041E\u0422\u041F\u0438\u0421\u041F\\lab6\\lab5\\lab3\\Film.cs",
+              "RelativeToolTip": "lab3\\Film.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAYwDcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T08:45:52.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Laba\\\u041E\u041E\u0422\u041F\u0438\u0421\u041F\\lab6\\lab5\\lab3\\Program.cs",
+              "RelativeDocumentMoniker": "lab3\\Program.cs",
+              "ToolTip": "D:\\Laba\\\u041E\u041E\u0422\u041F\u0438\u0421\u041F\\lab6\\lab5\\lab3\\Program.cs",
+              "RelativeToolTip": "lab3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T08:45:29.571Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
